@@ -27,6 +27,5 @@ Tecnologias: Java, Spring Boot, Spring Data JPA, H2, Lombok
 
 ##  Contato
 
-- [LinkedIn](https://www.linkedin.com/in/devvitorlopes)
 - Email: dev.vitorlopes@gmail.com
 
